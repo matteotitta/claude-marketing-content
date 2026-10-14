@@ -1,0 +1,15 @@
+{
+  "name": "claude-marketing-content",
+  "owner": {
+    "name": "Matteo Tittarelli"
+  },
+  "description": "A content engine: audit what you have, plan what to write, run it, and ship long-form and a newsletter.",
+  "plugins": [
+    {
+      "name": "marketing-content",
+      "source": ".",
+      "description": "A content engine: audit what you have, plan what to write, run it, and ship long-form and a newsletter.",
+      "version": "1.0.0"
+    }
+  ]
+}

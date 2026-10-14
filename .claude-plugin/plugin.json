@@ -1,0 +1,19 @@
+{
+  "name": "marketing-content",
+  "version": "1.0.0",
+  "description": "A content engine: audit what you have, plan what to write, run it, and ship long-form and a newsletter.",
+  "author": {
+    "name": "Matteo Tittarelli",
+    "url": "https://genesysgrowth.com"
+  },
+  "homepage": "https://github.com/matteotitta/claude-marketing-content",
+  "repository": "https://github.com/matteotitta/claude-marketing-content",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "b2b-saas",
+    "gtm",
+    "claude-code",
+    "skills"
+  ]
+}
