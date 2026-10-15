@@ -32,11 +32,11 @@ In Claude.ai or Cowork: download [`claude-marketing-content.zip`](https://github
 
 | Skill | What it does |
 |---|---|
-| `/content-audit` | Audits a B2B company''s existing content across blog, newsletter, LinkedIn, YouTube and events to set a baseline before planning. |
+| `/content-audit` | Audits a B2B company's existing content across blog, newsletter, LinkedIn, YouTube and events to set a baseline before planning. |
 | `/content-ops` | Turns a content strategy into a system a team can run. |
 | `/content-strategy` | Builds a B2B content strategy from your context files. |
 | `/newsletter` | Writes one B2B newsletter issue built on a single idea. |
-| `/thought-leadership` | Writes long-form thought leadership. |
+| `/thought-leadership` | Writes long-form thought leadership built on one contrarian, specific governing thought, with every claim sourced. |
 
 **Start here:** `/content-audit → /content-strategy → /content-ops → /thought-leadership`
 
